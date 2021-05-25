@@ -2,7 +2,8 @@
 
 Jun 2020
 
-Project descriptionMy first group project at <Academia de Código_> bootcamp which took part in our 4th week.
+<h3>Project description</h3>
+My first group project at <Academia de Código_> bootcamp which took part in our 4th week.
 
 <h3>Challenge</H3>
 We were challenged to create an game using in Java using simplegraphics
